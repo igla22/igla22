@@ -36,4 +36,8 @@
   <text x="20" y="490" class="txt">Here I'll share materials from my university studies, as well as my</text>
   <text x="20" y="515" class="txt">personal projects and experiments.</text>
 
+  <text x="20" y="565" class="txt">
+    <tspan class="prompt">igla@github</tspan>:~$ <tspan class="cursor">█</tspan>
+  </text>
+  
 </svg>
